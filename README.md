@@ -24,5 +24,5 @@ C:\Program Files (x86)\SquareEnix\FINAL FANTASY XIV - A Realm Reborn\game\gshade
   
 ![image](https://user-images.githubusercontent.com/14804553/167278173-30449bfa-bd65-4118-9ae5-25a9e6351749.png)  
   
-## for smsm users 
-if you use [smsm](https://github.com/s-ilent/smsm-ff14) i recommend turning HDR off in the shader to avoid overexposing in scenarios where daylight is strong (around noon in the overworld mostly) or where contrast between 2 or colors is high (ahm areng, il mheg, etc), some extra tweaking might be required and i might make a preset specifically for smsm in the future if i/people care about it...
+## SMSM
+i recommend using the preset in conjunction with [smsm](https://github.com/s-ilent/smsm-ff14) to get nicer, more true to life (color wise) pictures. if you do use smsm however do note that DOF must be turned off in gpose itself, do all of ur DOF work on shaders ONLY otherwise you will get some weird artifacting around corners that is just due to how smsm works
