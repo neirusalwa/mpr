@@ -20,6 +20,7 @@ C:\Program Files (x86)\SquareEnix\FINAL FANTASY XIV - A Realm Reborn\game\gshade
   
 5. ⚠ make sure to **untick** performance mode since this is a screenshot shader to avoid weird visual bugs ⚠  
   
-![image](https://user-images.githubusercontent.com/14804553/167278173-30449bfa-bd65-4118-9ae5-25a9e6351749.png)
-
-
+![image](https://user-images.githubusercontent.com/14804553/167278173-30449bfa-bd65-4118-9ae5-25a9e6351749.png)  
+  
+## for smsm users 
+if you use [smsm](https://github.com/s-ilent/smsm-ff14) i recommend turning HDR off in the shader to avoid overexposing in scenarios where daylight is strong (around noon in the overworld mostly) or where contrast between 2 or colors is high (ahm areng, il mheg, etc), some extra tweaking might be required and i might make a preset specifically for smsm in the future if i/people care about it...
