@@ -4,9 +4,15 @@ this modified preset tries to alleviate these issues on top of having very sligh
 
 provided as is, no credits required  
 
+### examples
+
 examples are found [here](https://github.com/neirusalwa/mpr/tree/main/examples)
 
-install :  
+### smsm
+i recommend using the preset in conjunction with [smsm](https://github.com/s-ilent/smsm-ff14) to get nicer, more true to life (color wise) pictures. if you do use smsm however do note that DOF must be turned off in gpose itself, do all of ur DOF work on shaders ONLY otherwise you will get some weird artifacting around corners that is just due to how smsm works  
+
+## install  
+  
 1. save [this](https://raw.githubusercontent.com/neirusalwa/mpr/main/MPR%2B.ini) file somewhere, make sure to change the file type to "all files (\*.\*)" otherwise it'll save as a .txt instead of .ini
 2. move the file to your gshade preset folder, by default it should be in 
 ```
@@ -24,5 +30,3 @@ C:\Program Files (x86)\SquareEnix\FINAL FANTASY XIV - A Realm Reborn\game\gshade
   
 ![image](https://user-images.githubusercontent.com/14804553/167278173-30449bfa-bd65-4118-9ae5-25a9e6351749.png)  
   
-## SMSM
-i recommend using the preset in conjunction with [smsm](https://github.com/s-ilent/smsm-ff14) to get nicer, more true to life (color wise) pictures. if you do use smsm however do note that DOF must be turned off in gpose itself, do all of ur DOF work on shaders ONLY otherwise you will get some weird artifacting around corners that is just due to how smsm works
