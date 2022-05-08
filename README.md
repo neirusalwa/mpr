@@ -26,7 +26,7 @@ C:\Program Files (x86)\SquareEnix\FINAL FANTASY XIV - A Realm Reborn\game\gshade
   
 ![image](https://user-images.githubusercontent.com/14804553/167278152-e4f599a8-d59a-4abc-a68b-3b5418210ae4.png)  
   
-5. ⚠ make sure to **untick** performance mode since this is a screenshot shader to avoid weird visual bugs ⚠  
+5. ⚠ make sure to **untick** performance mode, since this is a screenshot shader, to avoid weird visual bugs ⚠  
   
 ![image](https://user-images.githubusercontent.com/14804553/167278173-30449bfa-bd65-4118-9ae5-25a9e6351749.png)  
   
