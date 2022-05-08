@@ -4,6 +4,8 @@ this modified preset tries to alleviate these issues on top of having very sligh
 
 provided as is, no credits required  
 
+examples are found [here](https://github.com/neirusalwa/mpr/tree/main/examples)
+
 install :  
 1. save [this](https://raw.githubusercontent.com/neirusalwa/mpr/main/MPR%2B.ini) file somewhere, make sure to change the file type to "all files (\*.\*)" otherwise it'll save as a .txt instead of .ini
 2. move the file to your gshade preset folder, by default it should be in 
