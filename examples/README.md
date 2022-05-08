@@ -1,4 +1,4 @@
-click on the files themselves for the full images.  
+click on the files themselves for the full images  
 
 | ![mpr+](https://github.com/neirusalwa/mpr/blob/main/examples/malkovich%20plus%20(ruby%20sea).png) | ![original](https://github.com/neirusalwa/mpr/blob/main/examples/malkovich%20original%20(ruby%20sea).png) |  
 | --- | --- |  
