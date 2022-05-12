@@ -8,12 +8,17 @@ provided as is, no credits required
 
 examples are found [here](https://github.com/neirusalwa/mpr/tree/main/examples)
 
+### NEW : Wide Preset  
+
+added a [wide preset](https://raw.githubusercontent.com/neirusalwa/mpr/main/MPR%2B%20Wide.ini), this is meant for stuff like group pics with a lot of people or when you want to take wider shots from further away while having more things in focus. i went with 56mm @ f22 for this since i find it to be a sweet spot for point and shoot, could've went with a wider focal or aperture but i want this preset to be as "plug-n-play" as possible so i think this is a fair compromise  
+
 ### smsm
 i recommend using the preset in conjunction with [smsm](https://github.com/s-ilent/smsm-ff14) to get nicer, more true to life (color wise) pictures. if you do use smsm however do note that DOF must be turned off in gpose itself, do all of ur DOF work on shaders ONLY otherwise you will get some weird artifacting around corners that is just due to how smsm works  
 
 ## install  
   
-1. save [this](https://raw.githubusercontent.com/neirusalwa/mpr/main/MPR%2B.ini) file somewhere, make sure to change the file type to "all files (\*.\*)" otherwise it'll save as a .txt instead of .ini
+1. save [this](https://raw.githubusercontent.com/neirusalwa/mpr/main/MPR%2B.ini) file somewhere, make sure to change the file type to "all files (\*.\*)" otherwise it'll save as a .txt instead of .ini  
+
 2. move the file to your gshade preset folder, by default it should be in 
 ```
 C:\Program Files (x86)\SquareEnix\FINAL FANTASY XIV - A Realm Reborn\game\gshade-presets\Custom
